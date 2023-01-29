@@ -1,7 +1,5 @@
 package webdriverCommands;
 
-import java.util.HashMap;
-import java.util.Hashtable;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
